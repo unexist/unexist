@@ -1,4 +1,4 @@
-= Hi there! 👋
+= Hello there! 👋
 
 This profile is just a mirror for my Mercurial repositories.
 

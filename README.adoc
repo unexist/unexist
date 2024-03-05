@@ -1,0 +1,15 @@
+= Hi there! 👋
+
+This profile is just a mirror for my Mercurial repositories.
+
+== Bio
+
+Summarizing everything again sounds like a drag to me, so please hop over:
+
+https://www.linkedin.com/in/christoph-kappel-24bba71b7/
+
+== Links
+
+- My real repositories are here: https://hg.unexist.dev
+- Project stuff I do can be found here: https://projects.unexist.dev
+- And additionally my blog is here: https://unexist.blog

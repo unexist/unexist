@@ -1,0 +1,10 @@
+version: '3'
+
+tasks:
+  bundle:
+    cmds:
+      - bundle
+
+  test:
+    cmds:
+      - ruby ./build_readme.rb

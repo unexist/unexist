@@ -16,7 +16,16 @@ https://unexist.blog/about.html
 == On my blog
 
 // blog-start
-
+- https://unexist.blog/cicd/2025/02/15/gitlab-with-podman.html[2025-02-15 - Gitlab with Podman]
+- https://unexist.blog/documentation/myself/2024/12/26/bringing-documentation-together.html[2024-12-26 - Bringing documentation together]
+- https://unexist.blog/documentation/myself/2024/10/25/decision-records.html[2024-10-25 - Decision records]
+- https://unexist.blog/observability/2024/09/24/monitoring-with-signoz.html[2024-09-24 - Monitoring with SigNoz]
+- https://unexist.blog/tech/2024/08/04/playing-with-odata.html[2024-08-04 - Playing with OData]
+- https://unexist.blog/architecture/2024/07/08/architecture-diagrams.html[2024-07-08 - Architecture diagrams]
+- https://unexist.blog/tech/2024/06/23/deployment-with-feature-flags.html[2024-06-23 - Deployment with feature flags]
+- https://unexist.blog/tech/2024/05/30/extending-asciidoctor.html[2024-05-30 - Extending Asciidoctor]
+- https://unexist.blog/cicd/2024/05/05/building-with-dagger.html[2024-05-05 - Building with Dagger]
+- https://unexist.blog/big-data/2024/03/23/spark_vs_mapreduce.html[2024-03-23 - Spark vs MapReduce]
 // blog-end
 
 == Links

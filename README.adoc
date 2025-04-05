@@ -1,5 +1,8 @@
 = Hello there! 👋
 
+[link=https://github.com/unexist/unexist/actions]
+image::https://github.com/unexist/unexist/workflows/Build%20README/badge.svg[Build README]
+
 This profile is just a mirror for my Mercurial repositories.
 
 image::https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unexist&theme=github_dark[Profile Summary]
@@ -9,6 +12,12 @@ image::https://github-profile-summary-cards.vercel.app/api/cards/profile-details
 Summarizing everything again sounds like a drag to me, so please hop over:
 
 https://unexist.blog/about.html
+
+== On my blog
+
+// blog-start
+
+// blog-end
 
 == Links
 

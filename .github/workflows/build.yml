@@ -1,0 +1,31 @@
+name: Build README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        ruby-version: ['2.6', '2.7', '3.0']
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
+      with:
+        ruby-version: ${{ matrix.ruby-version }}
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: Update README
+      run: ruby build_readme.rb
+    - name: Commit and push if README has changed
+      run: |-
+        git diff
+        git config --global user.email "readme-bot@unexist.dev"
+        git config --global user.name "README-bot"
+        git diff --quiet || (git add README.md && git commit -m "Updated README")
+        git push  

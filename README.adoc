@@ -16,6 +16,7 @@ https://unexist.blog/about.html
 == On my blog
 
 // blog-start
+- https://unexist.blog/myself/2025/09/22/fear_of_missing_out_on_ai.html[2025-09-22 - Fear of missing out on AI]
 - https://unexist.blog/tech/2025/06/07/exploring-oci-registries.html[2025-06-07 - Exploring OCI registries]
 - https://unexist.blog/communication/2025/04/29/domain-storytelling.html[2025-04-29 - Domain storytelling]
 - https://unexist.blog/documentation/myself/2025/04/07/openapi-and-asciidoc-in-the-mix.html[2025-04-07 - OpenAPI and AsciiDoc in the Mix]
@@ -25,7 +26,6 @@ https://unexist.blog/about.html
 - https://unexist.blog/observability/2024/09/24/monitoring-with-signoz.html[2024-09-24 - Monitoring with SigNoz]
 - https://unexist.blog/tech/2024/08/04/playing-with-odata.html[2024-08-04 - Playing with OData]
 - https://unexist.blog/architecture/2024/07/08/architecture-diagrams.html[2024-07-08 - Architecture diagrams]
-- https://unexist.blog/tech/2024/06/23/deployment-with-feature-flags.html[2024-06-23 - Deployment with feature flags]
 // blog-end
 
 == Links

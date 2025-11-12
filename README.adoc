@@ -17,7 +17,7 @@ https://unexist.blog/about.html
 
 // blog-start
 - https://unexist.blog/tech/2025/11/09/rewriting-in-rust.html[2025-11-09 - Rewriting in Rust]
-- https://unexist.blog/myself/2025/09/22/fear_of_missing_out_on_ai.html[2025-09-22 - Fear of missing out on AI]
+- https://unexist.blog/myself/2025/09/22/fear-of-missing-out-on-ai.html[2025-09-22 - Fear of missing out on AI]
 - https://unexist.blog/tech/2025/06/07/exploring-oci-registries.html[2025-06-07 - Exploring OCI registries]
 - https://unexist.blog/communication/2025/04/29/domain-storytelling.html[2025-04-29 - Domain storytelling]
 - https://unexist.blog/documentation/myself/2025/04/07/openapi-and-asciidoc-in-the-mix.html[2025-04-07 - OpenAPI and AsciiDoc in the Mix]

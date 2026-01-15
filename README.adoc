@@ -3,13 +3,21 @@
 [link=https://github.com/unexist/unexist/actions]
 image::https://github.com/unexist/unexist/workflows/Build%20README/badge.svg[Build README]
 
-This profile is just a mirror for my Mercurial repositories.
+This profile is just a mirror for my https://hg.unexist.dev[Mercurial repositories].
 
-image::https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unexist&theme=github_dark[Profile Summary]
+[%noheader,frame=none,grid=none]
+|===
+2+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unexist&theme=monokai[Profile Summary]
+
+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unexist&theme=monokai[Repos per Language]
+
+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unexist&theme=monokai[Most commited Languages]
+|===
 
 == Bio
 
-Summarizing everything again sounds like a drag to me, so please hop over:
+Summarizing everything again?
+My blog has the perfect about page for this:
 
 https://unexist.blog/about.html
 
@@ -21,6 +29,6 @@ https://unexist.blog/about.html
 
 == Links
 
-- My real repositories are here: https://hg.unexist.dev
-- Project stuff I do can be found here: https://projects.unexist.dev
-- And additionally my blog is here: https://unexist.blog
+- My source repositories are here: https://hg.unexist.dev
+- Some of my project can be found here: https://projects.unexist.dev
+- And to even more important my blog just one click ahead: https://unexist.blog

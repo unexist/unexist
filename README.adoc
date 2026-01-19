@@ -7,11 +7,11 @@ This profile is just a mirror for my https://hg.unexist.dev[Mercurial repositori
 
 [%noheader,frame=none,grid=none]
 |===
-2+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unexist&theme=monokai[Profile Summary]
+2+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unexist&theme=transparent[Profile Summary]
 
-^a| image::https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unexist&theme=monokai[Repos per Language]
+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unexist&theme=transparent[Repos per Language]
 
-^a| image::https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unexist&theme=monokai[Most commited Languages]
+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unexist&theme=transparent[Most commited Languages]
 |===
 
 == Bio

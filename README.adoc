@@ -7,11 +7,11 @@ This profile is just a mirror for my https://hg.unexist.dev[Mercurial repositori
 
 [%noheader,frame=none,grid=none]
 |===
-2+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unexist&theme=monokai[Profile Summary]
+2+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unexist&theme=transparent[Profile Summary]
 
-^a| image::https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unexist&theme=monokai[Repos per Language]
+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unexist&theme=transparent[Repos per Language]
 
-^a| image::https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unexist&theme=monokai[Most commited Languages]
+^a| image::https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unexist&theme=transparent[Most commited Languages]
 |===
 
 == Bio
@@ -24,6 +24,9 @@ https://unexist.blog/about.html
 == On my blog
 
 // blog-start
+- https://unexist.blog/tech/2026/08/03/writing-parsers.html[2026-08-03 - Writing parsers]
+- https://unexist.blog/documentation/myself/2026/04/29/documenting-shellscripts.html[2026-04-29 - Documenting shellscripts]
+- https://unexist.blog/tech/2026/01/25/embedding-other-languages.html[2026-01-25 - Fun with embeddability]
 - https://unexist.blog/tech/2025/11/09/rewriting-in-rust.html[2025-11-09 - Rewriting in Rust]
 - https://unexist.blog/myself/2025/09/22/fear-of-missing-out-on-ai.html[2025-09-22 - Fear of missing out on AI]
 - https://unexist.blog/tech/2025/06/07/exploring-oci-registries.html[2025-06-07 - Exploring OCI registries]
@@ -31,9 +34,6 @@ https://unexist.blog/about.html
 - https://unexist.blog/documentation/myself/2025/04/07/openapi-and-asciidoc-in-the-mix.html[2025-04-07 - OpenAPI and AsciiDoc in the Mix]
 - https://unexist.blog/cicd/2025/02/15/gitlab-with-podman.html[2025-02-15 - Gitlab with Podman]
 - https://unexist.blog/documentation/myself/2024/12/26/bringing-documentation-together.html[2024-12-26 - Bringing documentation together]
-- https://unexist.blog/documentation/myself/2024/10/25/decision-records.html[2024-10-25 - Decision records]
-- https://unexist.blog/observability/2024/09/24/monitoring-with-signoz.html[2024-09-24 - Monitoring with SigNoz]
-- https://unexist.blog/tech/2024/08/04/playing-with-odata.html[2024-08-04 - Playing with OData]
 // blog-end
 
 == Links
